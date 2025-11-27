@@ -4,6 +4,7 @@ import { FaInstagram } from "react-icons/fa";
 
 export default function HomePage() {
   const pdfs = [
+    { href: "/chatgpt_tools_features.pdf", label: "Chatgpt tools features" },
     { href: "/Product_Creation_Checklist.pdf", label: "Product success scenario" },
     { href: "/cloudflare_ai_explained.pdf", label: "CHATGPT server down" },
     { href: "/realistic_drone_prompts.pdf", label: "Drone shoot prompt" },
