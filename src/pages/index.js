@@ -4,6 +4,7 @@ import { FaInstagram } from "react-icons/fa";
 
 export default function HomePage() {
   const pdfs = [
+    { href: "/Freelancer_Client_Onboarding_Guide.pdf", label: "Freelancer Client Onboarding Guide" },
     { href: "/Social_Media_Reel_Marketing_Guide.pdf", label: "Social Media Reel Marketing" },
     { href: "/LinkedIn_Job_Hacks_2_Tricks.pdf", label: "LinkedIn Job Hacks" },
     { href: "/IT_Startup_Guide.pdf", label: "My Startup Experiance" },
@@ -11,7 +12,7 @@ export default function HomePage() {
     { href: "/nodejs_hosting_storage_comparision.pdf", label: "Node.js Hosting Storage Comparison" },
     { href: "/Product_Creation_Checklist.pdf", label: "Product success scenario" },
     { href: "/cloudflare_ai_explained.pdf", label: "CHATGPT server down" },
-    { href: "/Free_Database_Cloud_Tiers_Reel_Script.pdf", label: "Free Database for Project" },
+    // { href: "/Free_Database_Cloud_Tiers_Reel_Script.pdf", label: "Free Database for Project" },
     // { href: "/Database_Selection_By_Project.pdf", label: "Database Selection By Project" },
     // { href: "/chatgpt_tools_features.pdf", label: "Chatgpt tools features" },
     // { href: "/realistic_drone_prompts.pdf", label: "Drone shoot prompt" },
