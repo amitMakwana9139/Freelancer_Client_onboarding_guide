@@ -4,7 +4,7 @@ import { FaInstagram } from "react-icons/fa";
 
 export default function HomePage() {
   const pdfs = [
-    { href: "/Client_Onboarding_Trust_Guide.pdf", label: "Client Onboarding Trust Guide" },
+    { href: "/Client_Onboarding_Trust_Communication_Guide.pdf", label: "Client Onboarding, Communication & Trust Guide" },
     { href: "/Social_Media_Reel_Marketing_Guide.pdf", label: "Social Media Reel Marketing" },
     { href: "/LinkedIn_Job_Hacks_2_Tricks.pdf", label: "LinkedIn Job Hacks" },
     { href: "/IT_Startup_Guide.pdf", label: "My Startup Experiance" },
